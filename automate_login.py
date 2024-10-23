@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait # type: ignore
 
 # Github credentials
 username = "megersa.jambo111@gmail.com"
-password = "git@insa2021"
+password = "git@insaa2021"
 
 # initialize the Chrome driver
 driver = webdriver.Chrome()
